@@ -2,7 +2,9 @@
 
 A stunning, production-ready real-time chat application built with React, Next.js, Socket.io, and MongoDB. Features a modern UI/UX design with comprehensive chat functionality including file sharing, message reactions, and real-time notifications.
 
-![ChatFlow Banner](![Screenshot 2025-07-01 210458](https://github.com/user-attachments/assets/87dfdb8c-e7c0-4aa1-98ac-4cd50d17324f)
+(![Screenshot 2025-07-01 210458](https://github.com/user-attachments/assets/87dfdb8c-e7c0-4aa1-98ac-4cd50d17324f)
+(![Screenshot 2025-07-01 210458](![Screenshot 2025-07-01 210607](https://github.com/user-attachments/assets/6d43fad0-2c22-4a5e-843c-77b7cfca7b66)
+
 
 ## ✨ Features
 
